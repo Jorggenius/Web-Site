@@ -1,0 +1,33 @@
+.top-bar{
+    background: #85929E ;
+}
+.section-one{
+    background: #E6B0AA;
+}
+.section-two{
+    background: #27AE60;
+    display: flex;
+    justify-content: center;
+  
+}
+.div-one{
+    background: #154f86;
+    width: 150px;
+    height: 100px;
+    border: solid;
+    border-color: black;
+}
+.div-two{
+    background: #154f86;
+    width: 150px;
+    height: 100px;
+    border: solid;
+    border-color: black;
+}
+.div-three{
+    background: #154f86;
+    width: 150px;
+    height: 100px;
+    border: solid;
+    border-color: black;
+}
